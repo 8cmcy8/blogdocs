@@ -4,7 +4,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 import {notes} from "./notes";
 
 export default defineUserConfig({
-  base: '/',
+  base: '/blogdocs/',
   lang: 'zh-CN',
   title: 'cmcy的文档',
   description: '这是我的第一个 VuePress 站点',
