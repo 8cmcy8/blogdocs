@@ -1,0 +1,3 @@
+import comp from "C:/Users/Administrator/Desktop/vuepress/my-project/docs/.vuepress/.temp/pages/基础知识/index.html.vue"
+const data = JSON.parse("{\"path\":\"/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/\",\"title\":\"基础知识\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"基础知识\",\"createTime\":\"2025/04/08 19:23:41\",\"permalink\":\"/基础知识/\"},\"headers\":[],\"readingTime\":{\"minutes\":0.12,\"words\":36},\"git\":{},\"filePathRelative\":\"notes/基础知识/README.md\",\"categoryList\":[{\"id\":\"4358b5\",\"sort\":10002,\"name\":\"notes\"},{\"id\":\"aa275d\",\"sort\":10004,\"name\":\"基础知识\"}],\"bulletin\":true}")
+export { comp, data }

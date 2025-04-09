@@ -1,0 +1,3 @@
+import comp from "C:/Users/Administrator/Desktop/vuepress/my-project/docs/.vuepress/.temp/pages/环境配置/s506xfnv/index.html.vue"
+const data = JSON.parse("{\"path\":\"/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/s506xfnv/\",\"title\":\"系统安装\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"系统安装\",\"createTime\":\"2025/04/08 19:22:06\",\"permalink\":\"/环境配置/s506xfnv/\"},\"headers\":[],\"readingTime\":{\"minutes\":5.85,\"words\":1756},\"git\":{},\"filePathRelative\":\"notes/环境配置/系统安装.md\",\"categoryList\":[{\"id\":\"4358b5\",\"sort\":10002,\"name\":\"notes\"},{\"id\":\"0169f4\",\"sort\":10003,\"name\":\"环境配置\"}],\"bulletin\":true}")
+export { comp, data }

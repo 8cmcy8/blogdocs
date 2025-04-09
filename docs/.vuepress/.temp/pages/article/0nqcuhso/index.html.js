@@ -1,0 +1,3 @@
+import comp from "C:/Users/Administrator/Desktop/vuepress/my-project/docs/.vuepress/.temp/pages/article/0nqcuhso/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/0nqcuhso/\",\"title\":\"重现老博客文章\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"重现老博客文章\",\"createTime\":\"2024/06/05 20:12:23\",\"cover\":\"https://vip4.yunpng.top/2025/04/01/67eb81047c270.jpg\",\"permalink\":\"/article/0nqcuhso/\"},\"headers\":[],\"readingTime\":{\"minutes\":11.9,\"words\":3571},\"git\":{},\"filePathRelative\":\"总结/重现老博客文章.md\",\"categoryList\":[{\"id\":\"25f9c7\",\"sort\":10001,\"name\":\"总结\"}],\"bulletin\":true}")
+export { comp, data }

@@ -1,0 +1,3 @@
+import comp from "C:/Users/Administrator/Desktop/vuepress/my-project/docs/.vuepress/.temp/pages/基础知识/kgk3xsrx/index.html.vue"
+const data = JSON.parse("{\"path\":\"/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/kgk3xsrx/\",\"title\":\"操作系统\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"操作系统\",\"createTime\":\"2025/04/08 19:22:30\",\"permalink\":\"/基础知识/kgk3xsrx/\"},\"headers\":[],\"readingTime\":{\"minutes\":24.12,\"words\":7236},\"git\":{},\"filePathRelative\":\"notes/基础知识/操作系统.md\",\"categoryList\":[{\"id\":\"4358b5\",\"sort\":10002,\"name\":\"notes\"},{\"id\":\"aa275d\",\"sort\":10004,\"name\":\"基础知识\"}],\"bulletin\":true}")
+export { comp, data }

@@ -1,0 +1,3 @@
+import comp from "C:/Users/Administrator/Desktop/vuepress/my-project/docs/.vuepress/.temp/pages/基础知识/2xl02wdb/index.html.vue"
+const data = JSON.parse("{\"path\":\"/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/2xl02wdb/\",\"title\":\"Linux网络基础总集篇\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"Linux网络基础总集篇\",\"createTime\":\"2025/04/08 19:22:30\",\"permalink\":\"/基础知识/2xl02wdb/\"},\"headers\":[],\"readingTime\":{\"minutes\":21.49,\"words\":6446},\"git\":{},\"filePathRelative\":\"notes/基础知识/Linux网络基础总集篇.md\",\"categoryList\":[{\"id\":\"4358b5\",\"sort\":10002,\"name\":\"notes\"},{\"id\":\"aa275d\",\"sort\":10004,\"name\":\"基础知识\"}],\"bulletin\":true}")
+export { comp, data }

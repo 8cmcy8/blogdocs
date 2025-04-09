@@ -1,0 +1,3 @@
+import comp from "C:/Users/Administrator/Desktop/vuepress/my-project/docs/.vuepress/.temp/pages/article/8gmwt561/index.html.vue"
+const data = JSON.parse("{\"path\":\"/article/8gmwt561/\",\"title\":\"大一下期末总结\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"大一下期末总结\",\"createTime\":\"2024/7/10 00:22\",\"permalink\":\"/article/8gmwt561/\",\"cover\":\"https://vip4.yunpng.top/2025/03/27/67e4d592981c6.jpg\"},\"headers\":[],\"readingTime\":{\"minutes\":6.18,\"words\":1853},\"git\":{},\"filePathRelative\":\"总结/大一下期末总结.md\",\"categoryList\":[{\"id\":\"25f9c7\",\"sort\":10001,\"name\":\"总结\"}],\"bulletin\":true}")
+export { comp, data }

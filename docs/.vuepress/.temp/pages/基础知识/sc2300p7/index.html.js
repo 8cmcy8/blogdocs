@@ -1,0 +1,3 @@
+import comp from "C:/Users/Administrator/Desktop/vuepress/my-project/docs/.vuepress/.temp/pages/基础知识/sc2300p7/index.html.vue"
+const data = JSON.parse("{\"path\":\"/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/sc2300p7/\",\"title\":\"计算机组成原理\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"计算机组成原理\",\"createTime\":\"2025/04/08 19:22:30\",\"permalink\":\"/基础知识/sc2300p7/\"},\"headers\":[],\"readingTime\":{\"minutes\":7.96,\"words\":2389},\"git\":{},\"filePathRelative\":\"notes/基础知识/计算机组成原理.md\",\"categoryList\":[{\"id\":\"4358b5\",\"sort\":10002,\"name\":\"notes\"},{\"id\":\"aa275d\",\"sort\":10004,\"name\":\"基础知识\"}],\"bulletin\":true}")
+export { comp, data }

@@ -1,0 +1,3 @@
+import comp from "C:/Users/Administrator/Desktop/vuepress/my-project/docs/.vuepress/.temp/pages/环境配置/index.html.vue"
+const data = JSON.parse("{\"path\":\"/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/\",\"title\":\"环境配置\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"环境配置\",\"createTime\":\"2025/04/08 19:10:12\",\"permalink\":\"/环境配置/\"},\"headers\":[],\"readingTime\":{\"minutes\":0.31,\"words\":92},\"git\":{},\"filePathRelative\":\"notes/环境配置/README.md\",\"categoryList\":[{\"id\":\"4358b5\",\"sort\":10002,\"name\":\"notes\"},{\"id\":\"0169f4\",\"sort\":10003,\"name\":\"环境配置\"}],\"bulletin\":true}")
+export { comp, data }
